@@ -1,4 +1,4 @@
-![ccirheader](https://user-images.githubusercontent.com/66869833/197528431-7d92972e-f4b9-4874-8eb4-6067ce03375c.jpg)
+![fetch-api-header](https://user-images.githubusercontent.com/66869833/197530742-477499c2-4617-48c7-8c82-e4a2caad3432.jpg)
 
 # Fetching data in React with Fetch API
 
