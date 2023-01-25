@@ -1,6 +1,5 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import axios from "axios";
 function App() {
   //create state for data - default to null as we need to make sure that the state can expect to recieve no data if the API is down - so we don't use an empty string or array
   const [data, setData] = useState(null);
